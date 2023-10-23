@@ -4,6 +4,6 @@
 <hr>
 <h2>Projeto Concluído</h2>
 <h2>Acesse: <a href="https://jeiversonchristian.github.io/android.com/" target="_blank">android.com</a></h2>
-<img src="imagens/meu-site.png" alt="QR code do projeto">
+<a href="https://jeiversonchristian.github.io/android.com/" target="_blank"><img src="imagens/meu-site.png" alt="QR code do projeto"></a></h2>
 <hr>
 <P>Projeto feito sob orientação do lendário professor Gustavo Guanabara do <a href="https://www.cursoemvideo.com/" target="_blank">Curso em Vídeo</a>.</P>
